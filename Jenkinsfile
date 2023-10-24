@@ -5,7 +5,7 @@ pipeline{
     stages{
         stage('demo'){
             steps{
-                welcome("Aslam Basha")
+                welcome("u")
             }
         }
     }

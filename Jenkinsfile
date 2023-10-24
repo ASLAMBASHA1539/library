@@ -8,8 +8,8 @@ pipeline{
                 welcome("u")
                 welcome("Aslam Basha")
                 script{
-                    print.add(20,30)
-                    print.mul(20,30)
+                    print.add(2,3)
+                    print.mul(2,3)
                 }
             }
         }

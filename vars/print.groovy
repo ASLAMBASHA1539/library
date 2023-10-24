@@ -1,1 +1,1 @@
-echo "hey $(name) what happened"
+echo "hey ${name} what happened"

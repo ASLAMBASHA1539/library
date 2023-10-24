@@ -7,8 +7,10 @@ pipeline{
             steps{
                 welcome("u")
                 welcome("Aslam Basha")
-                print.add(20,30)
-                print.mul(20,30)
+                script{
+                    print.add(20,30)
+                    print.mul(20,30)
+                }
             }
         }
     }
